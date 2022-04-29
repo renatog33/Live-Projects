@@ -1,9 +1,3 @@
-# Live Project
-***
-## Introduction
-***
-Toward the end of my Front-End Web Developer Bootcamp at [The Tech Academy][ta], I participated in a two-week sprint with my peers.  Our project centered on building out themed topic pages (e.g., food, travel, health, etc.) for a lifestyle brand.  I worked with HTML, CSS, JavaScript, Bootstrap, API, and JSON to build out a travel destination page.
-
 Below are the [features/stories](#front-end-stories) I worked on highlighted in short representational videos.  The full code files are available in this repo.
 
 ## Front-End Stories
@@ -18,7 +12,7 @@ Below are the [features/stories](#front-end-stories) I worked on highlighted in 
 
 ### Structure the Page
 I created a page layout that had a navigation bar with anchors, a grid system (to include both text and images), and a footer.
-![Structure](https://github.com/renatog33/Live-Project/blob/master/structure.jpg?raw=true)
+![Structure](https://github.com/renatog33/Live-Project/structure.jpg?raw=true)
 ### Create a Modal and Sign-up Form
 A modal was added that contained a form to capture a user's contact information.
 ### Back-to-Top Button
@@ -28,7 +22,7 @@ A toggle was added to the navigation bar to render the page in a dark theme.
 ### Animation
 An Animation was added to one of the header elements.
 ### API Request and Response Display
-Through user input on a button click, an API call was added to request and display current weather data from [OpenWether.org][ow]
+Through user input on a button click, an API call was added to request and display current weather data from [OpenWeather.org][ow]
 ### Responsive Page
 The page was made to be responsive.
 Jump to: [Front-End Stories](#front-end-stories), [Lessons Learned](#lessons-learned), [Page Top](#live-project) 
@@ -38,8 +32,12 @@ Jump to: [Front-End Stories](#front-end-stories), [Lessons Learned](#lessons-lea
  - I found it beneficial to participate in daily stand-up meetings with the team, and it was insightful to hear about what others were working on and any roadblocks they encountered.
  - The Agile methodology allowed for a consistent cadence and pace in working through the stories
  - Of course, if more time was allowed, I would like to enhance my page with features such as displaying additional parameters pulled via the weather API.  Also, adding additional data via API to display current fiat exchange rates and flight details would be interesting.
+ 
 Jump to: [Front-End Stories](#front-end-stories), [Lessons Learned](#lessons-learned), [Page Top](#live-project) 
 
 
    [ta]: <https://www.learncodinganywhere.com/>
    [ow]: <https://openweathermap.org/>
+
+
+
