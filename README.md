@@ -1,3 +1,9 @@
+# Live Project
+***
+## Introduction
+***
+Toward the end of my Front-End Web Developer Bootcamp at [The Tech Academy][ta], I participated in a two-week sprint with my peers.  Our project centered on building out themed topic pages (e.g., food, travel, health, etc.) for a lifestyle brand.  I worked with HTML, CSS, JavaScript, Bootstrap, API, and JSON to build out a travel destination page.
+
 Below are the [features/stories](#front-end-stories) I worked on highlighted in short representational videos.  The full code files are available in this repo.
 
 ## Front-End Stories
