@@ -12,20 +12,33 @@ Below are the [features/stories](#front-end-stories) I worked on highlighted in 
 
 ### Structure the Page
 I created a page layout that had a navigation bar with anchors, a grid system (to include both text and images), and a footer.
-![Structure](https://github.com/renatog33/Live-Project/structure.jpg?raw=true)
+
+![Structure](md_images/structure.gif)
 ### Create a Modal and Sign-up Form
 A modal was added that contained a form to capture a user's contact information.
+
+![Modal with Contact Form](md_images/modal.gif)
 ### Back-to-Top Button
 A back-to-top button was added, and it would appear as the user scrolled toward the bottom of the page.
+
+![Back-to-Top](md_images/btt.gif)
 ### Dark Theme
 A toggle was added to the navigation bar to render the page in a dark theme.
+
+![Dark Theme](md_images/dark.gif)
 ### Animation
 An Animation was added to one of the header elements.
+
+![Animation](md_images/animation.gif)
 ### API Request and Response Display
 Through user input on a button click, an API call was added to request and display current weather data from [OpenWeather.org][ow]
+
+![Weather API Display ](md_images/api.gif)
 ### Responsive Page
 The page was made to be responsive.
 Jump to: [Front-End Stories](#front-end-stories), [Lessons Learned](#lessons-learned), [Page Top](#live-project) 
+
+![Responsiveness](md_images/responsiveness.gif)
 
 ## Lessons Learned
 ***
