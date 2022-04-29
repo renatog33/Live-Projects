@@ -43,9 +43,9 @@ Through user input on a button click, an API call was added to request and displ
 ### Responsive Page
 The page was made to be responsive.
 
-Jump to: [Front-End Stories](#front-end-stories), [Lessons Learned](#lessons-learned), [Page Top](#live-project) 
-
 ![Responsiveness](md_images/responsiveness.gif)
+
+Jump to: [Front-End Stories](#front-end-stories), [Lessons Learned](#lessons-learned), [Page Top](#live-project) 
 
 ## Lessons Learned
 ***
