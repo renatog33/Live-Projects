@@ -14,17 +14,16 @@ Working with the Django framework gave me exposure to creating an application th
 
 ### API Content
 I created a page that displayed the live price of Bitcoin- the API call was made from [RapidAPI.com].[ra]
+The Python function code for the API call:
 
-![Structure](md_images/API.png)
+![API code image](md_images/API.PNG)
 ### Data Scraped Content
 I created a page that data scraped elements (name, price, and market cap) of the top cryptocurrency by market cap from [Crypto.com].[cc]
+I leveraged Python's Beautiful Soup library to pull the elements, and here is the Pyhton function code"
 
-![Modal with Contact Form](md_images/BS.png)
-## Learnings
-***
- - 
- 
-Jump to: [API](#api-content), [Scrpaed Data](#data-scraped-content), [Introduction](#introduction) 
+![Data Scrape code image](md_images/BS.PNG)
+
+Jump to: [API](#api-content), [Scraped Data](#data-scraped-content), [Introduction](#introduction) 
 
 
    [ta]: <https://www.learncodinganywhere.com/>
