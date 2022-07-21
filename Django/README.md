@@ -13,12 +13,12 @@ From the back-end perspective, the project also consisted of gathering API (#api
 Working with the Django framework gave me exposure to creating an application that leveraged HTML, CSS, Python, APIs, and Data Scraping.
 
 ### API Content
-I created a page that displayed the live price of Bitcoin- the API call was made from [RapidAPI.com].[ra]
+I created a page that displayed the live price of Bitcoin- the API call was made from [RapidAPI.com][ra].
 The Python function code for the API call:
 
 ![API code image](md_images/API.PNG)
 ### Data Scraped Content
-I created a page that data scraped elements (name, price, and market cap) of the top cryptocurrency by market cap from [Crypto.com].[cc]
+I created a page that data scraped elements (name, price, and market cap) of the top cryptocurrency by market cap from [Crypto.com][cc].
 I leveraged Python's Beautiful Soup library to pull the elements, and here is the Pyhton function code"
 
 ![Data Scrape code image](md_images/BS.PNG)
