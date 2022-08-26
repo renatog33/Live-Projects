@@ -1,11 +1,11 @@
 # Live Project
-***
+
 ## Introduction
-***
+
 The last two weeks of my time spent at [The Tech Academy][ta], I participated in a team project centered on building out a web application for a performing arts theater in Portland, OR.  We worked in ASP.NET MVC C# with a code first Entity Framework Database.  During the two-week sprint the team communicated via Discord and the project management was facilitated through Azure DevOps. I worked on both front-end and back-end tasks for the project. I learned a lot about the MVC pattern and using it to build out a functioning web application. 
 
 ## Overview
-***
+
 ### About Page
 I used HTML and CSS to create an "About Us" page that included the theater's mission statement, ensemble, company history, and BOD.
 
@@ -13,7 +13,8 @@ I used HTML and CSS to create an "About Us" page that included the theater's mis
 ### Rental Request Model
 I created an entity model for Rental Requests so that they could be saved to the database.  Afterward, I scaffolded the CRUD pages for this model.
 
-Here is thre 'Create' View for the Rental Request model:
+Here is the 'Create' View for the Rental Request model:
+
 ![Rental Requests](md_images/rental_request_create.png)
 ### Rental Request View Enhancements
 The rental requests were displayed in a table on the scaffolded index page.  I changed this to an accordion view, whereby clicking on the horizontal bar associated to a requester would reveal a pane containing additional details about the rental request.
@@ -119,3 +120,4 @@ In addition , I used C# to display the "Time Unitl Start/ Time Left" fpr the ren
     </div>
 </div>
 ```
+[ta]: <https://www.learncodinganywhere.com/>
