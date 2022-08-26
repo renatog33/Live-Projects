@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The last two weeks of my time spent at [The Tech Academy][ta], I participated in a team project centered on building out a web application for a performing arts theater in Portland, OR.  We worked in ASP.NET MVC C# with a code first Entity Framework Database.  During the two-week sprint the team communicated via Discord and the project management was facilitated through Azure DevOps. I worked on both front-end and back-end tasks for the project. I learned a lot about the MVC pattern and using it to build out a functioning web application. 
+The last two weeks of my time spent at [The Tech Academy][ta], I participated in a team project centered on building out a web application for a performing arts theater in Portland, OR.  We worked in ASP.NET MVC C# with a code first Entity Framework Database.  During the two-week sprint, the team communicated via Discord and the project management was facilitated through Azure DevOps. I worked on both front-end and back-end tasks for the project. I learned a lot about the MVC pattern and using it to build out a functioning web application. 
 
 ## Overview
 
