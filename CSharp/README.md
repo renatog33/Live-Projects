@@ -19,7 +19,7 @@ Here is the 'Create' View for the Rental Request model:
 ### Rental Request View Enhancements
 The rental requests were displayed in a table on the scaffolded index page.  I changed this to an accordion view, whereby clicking on the horizontal bar associated to a requester would reveal a pane containing additional details about the rental request.
 
-In addition , I used C# to display the "Time Unitl Start/Time Left" for the rental.  Also, a button was created to use onclick Javascript to toggle between "Current rentals" and "Expired rentals".
+In addition , I used C# to display the "Time Unitl Start/Time Left" for the rental.  Also, a button was created to use onclick Javascript to toggle between "Current rentals" and "Expired rentals."
 
 ![Accordion View](md_images/accordion_view.png)
 #### Code
