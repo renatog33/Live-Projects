@@ -37,7 +37,7 @@ An Animation was added to one of the header elements.
 
 ![Animation](md_images/animation.gif)
 ### API Request and Response Display
-Through user input on a button click, an API call was added to request and display current weather data from [OpenWeather.org].[ow]
+Through user input on a button click, an API call was added to request and display current weather data from [OpenWeather.org][ow].
 
 ![Weather API Display ](md_images/api.gif)
 ### Responsive Page
